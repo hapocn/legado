@@ -4,6 +4,7 @@
 body {
     padding: 0;
     margin: 0;
+    font-weight: bold;
 }
 
 .el-tabs__header {
@@ -11,4 +12,5 @@ body {
     top: 0px;
     z-index: 2;
     background-color: white;
+    font-weight: bold;
 }
